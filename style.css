@@ -1,0 +1,11 @@
+.red-circle{ 
+    position: absolute;
+    top: 150px;
+    left: 250px;
+    
+}
+.blue-box{
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
